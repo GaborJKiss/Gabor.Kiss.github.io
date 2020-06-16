@@ -1,2 +1,2 @@
-# Gabor.Kiss.github.io
+# gaborjkiss.github.io
 Demo page
